@@ -1,4 +1,5 @@
 <?php
+
 class ImageDownloader {
     private
         $file;
